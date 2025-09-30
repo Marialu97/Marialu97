@@ -3,22 +3,26 @@
 <br>
 
 <div align="center">
-
-<div align="center">
   <b>。°。°💙。°。° 🐴Malu 。°。°💙。°。°</b>
 </div>
 
 <br>
+<p align="center">
+  <img src="https://github.com/Marialu97/Marialu97/blob/output/ocean.svg" alt="GitHub Snake" />
+</p>
+
 <br>
 
 <div align="center">
-  <b>。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°</b>
+  <b>。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°💙。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°</b>
 </div>
 
 <br>
-<p align="center">
-  <img src="https://github.com/Miickkk/Miickkk/blob/output/ocean.svg" alt="GitHub Snake" />
-</p>
+
+## SOBRE MIM 。°。°。°。🐴
+- <b>Aluna do SENAI-SP</b>
+- <b>Curso de Desenvolvimento de Sistemas</b>
+- <b>Atleta de Karate</b>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
