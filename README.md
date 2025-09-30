@@ -2,7 +2,15 @@
 
 <br>
 
-![GitHub](https://github.com/Marialu97/Marialu97/blob/main/images/passaro.png)
+<div align="center">
+  <b>°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°💙。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°</b>
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://github.com/Marialu97/Marialu97/blob/main/passaro.jpg" />
+</p>
 
 <br>
 
