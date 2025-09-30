@@ -2,6 +2,10 @@
 
 <br>
 
+
+
+<br>
+
 <div align="center">
   <b>。°。°💙。°。° 🐴Malu🐴 。°。°💙。°。°</b>
 </div>
@@ -18,7 +22,7 @@
 <br>
 
 <div align="center">
-  <b>。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°💙。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°</b>
+  <b>°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°💙。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°</b>
 </div>
 
 <br>
@@ -60,10 +64,17 @@
 
 ## FALE COMIGO 。°。°。°。🐴
 
-  [![Gmail](https://img.shields.io/badge/Gmail-ABDBFF?style=for-the-badge&logo=gmail&logoColor=172F45)](mailto:miickk09@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-ABDBFF?style=for-the-badge&logo=gmail&logoColor=172F45)](mailto:marialuizaelias04@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-ABDBFF?style=for-the-badge&logo=instagram&logoColor=172F45)](https://www.instagram.com/marluiza7240/?next=%2F)
   
+<br>
+<br>
 
-  
+<div align="center" width="100%">
+  <b>。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°💙OBRIGADO POR VIREM💙。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。°。</b>
+</div>
+
+<br>
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=200&color=ABDBFF&descAlign=50&descAlignY=50&reversal=false&section=footer"/>
