@@ -58,7 +58,7 @@
 
 <br>
 
-## FALE COMIGO 。°。°。°。🐴
+## CONECTE-SE COMIGO 。°。°。°。🐴
 
   [![Gmail](https://img.shields.io/badge/Gmail-ABDBFF?style=for-the-badge&logo=gmail&logoColor=172F45)](mailto:marialuizaelias04@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-ABDBFF?style=for-the-badge&logo=instagram&logoColor=172F45)](https://www.instagram.com/marluiza7240/?next=%2F)
